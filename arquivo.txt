@@ -1,0 +1,11 @@
+Testando string em arquivo
+Hello World!
+Testando string em arquivo
+Hello World!
+Valor: 55 55.549999
+Testando string em arquivo
+Hello World!
+Valor: 55 55.549999
+Testando string em arquivo
+Hello World!
+Valor: 55 55.549999
